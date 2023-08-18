@@ -16,14 +16,14 @@
 # Add a feed source
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git packages https://github.com/coolsnowwolf/packages
-echo 'src-git luci https://github.com/coolsnowwolf/luci
-echo 'src-git routing https://git.openwrt.org/feed/routing.git
-echo 'src-git telephony https://git.openwrt.org/feed/telephony.git
-echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages
+#echo 'src-git packages https://github.com/coolsnowwolf/packages
+#echo 'src-git luci https://github.com/coolsnowwolf/luci
+#echo 'src-git routing https://git.openwrt.org/feed/routing.git
+#echo 'src-git telephony https://git.openwrt.org/feed/telephony.git
+#echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages
 #echo 'src-git small https://github.com/kenzok8/small
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall
-echo 'src-git openclash https://github.com/vernesong/OpenClash
+#echo 'src-git openclash https://github.com/vernesong/OpenClash
 #echo 'src-git kiddin9 https://github.com/kiddin9/openwrt-packages.git
-echo 'src-git bypass https://github.com/Cneupa/luci-app-bypass.git
-echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
+#echo 'src-git bypass https://github.com/Cneupa/luci-app-bypass.git
+#echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
